@@ -1,0 +1,13 @@
+td>.form-group {
+    margin-bottom: -0.7em;
+    margin-top: -0.7em;
+    margin-left: -0.7em;
+    margin-right: -0.7em;
+}
+
+.has-feedback .form-control {
+    padding-right: 1px;
+    padding-left: 1px;
+    height: 20px;
+    border: none;
+}
